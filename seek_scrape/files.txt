@@ -1,0 +1,8 @@
+scrapy crawl data_analyst_nsw -O data_analyst_nsw.json
+scrapy crawl data_analyst_qld -O data_analyst_qld.json
+scrapy crawl data_analyst_sa -O data_analyst_sa.json
+scrapy crawl data_analyst_ta -O data_analyst_ta.json
+scrapy crawl data_analyst_vic -O data_analyst_vic.json
+scrapy crawl data_analyst_wa -O data_analyst_wa.json
+scrapy crawl data_engineer -O data_engineer.json
+scrapy crawl data_scientist -O data_scientist.json
